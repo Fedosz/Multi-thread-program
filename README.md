@@ -118,12 +118,19 @@ int main() {
 ##### output:
 John Silver has arrived to the Island
 Group #2 returned to the boat and reported, that in area #1 treasure hasn't been found
+
 Group #1 returned to the boat and reported, that in area #2 treasure hasn't been found
+
 Group #3 returned to the boat and reported, that in area #3 treasure hasn't been found
+
 Group #1 returned to the boat and reported, that in area #4 treasure hasn't been found
+
 Group #3 returned to the boat and reported, that in area #5 treasure has been found
+
 Group #2 returned to the boat and reported, that in area #6 treasure hasn't been found
+
 Group #1 returned to the boat and reported, that in area #7 treasure hasn't been found
+
 All groups have returned to the boat, the treasure has been found, all rum is about to be drunk!
 ##### input: 
 6 
@@ -131,18 +138,31 @@ All groups have returned to the boat, the treasure has been found, all rum is ab
 ##### output:
 John Silver has arrived to the Island
 Group #1 returned to the boat and reported, that in area #1 treasure hasn't been found
+
 Group #4 returned to the boat and reported, that in area #2 treasure hasn't been found
+
 Group #3 returned to the boat and reported, that in area #3 treasure hasn't been found
+
 Group #6 returned to the boat and reported, that in area #4 treasure hasn't been found
+
 Group #5 returned to the boat and reported, that in area #5 treasure hasn't been found
+
 Group #2 returned to the boat and reported, that in area #6 treasure hasn't been found
+
 Group #5 returned to the boat and reported, that in area #7 treasure hasn't been found
+
 Group #6 returned to the boat and reported, that in area #8 treasure hasn't been found
+
 Group #1 returned to the boat and reported, that in area #9 treasure has been found
+
 Group #2 returned to the boat and reported, that in area #10 treasure hasn't been found
+
 Group #4 returned to the boat and reported, that in area #11 treasure hasn't been found
+
 Group #3 returned to the boat and reported, that in area #12 treasure hasn't been found
+
 Group #6 returned to the boat and reported, that in area #13 treasure hasn't been found
+
 All groups have returned to the boat, the treasure has been found, all rum is about to be drunk!
 ##### input: 
 4 
@@ -150,9 +170,15 @@ All groups have returned to the boat, the treasure has been found, all rum is ab
 ##### output:
 John Silver has arrived to the Island
 Group #1 returned to the boat and reported, that in area #1 treasure hasn't been found
+
 Group #4 returned to the boat and reported, that in area #2 treasure hasn't been found
+
 Group #3 returned to the boat and reported, that in area #3 treasure has been found
+
 Group #2 returned to the boat and reported, that in area #4 treasure hasn't been found
+
 Group #1 returned to the boat and reported, that in area #5 treasure hasn't been found
+
 Group #4 returned to the boat and reported, that in area #6 treasure hasn't been found
+
 All groups have returned to the boat, the treasure has been found, all rum is about to be drunk!

@@ -117,6 +117,7 @@ int main() {
 10
 ##### output:
 John Silver has arrived to the Island
+
 Group #2 returned to the boat and reported, that in area #1 treasure hasn't been found
 
 Group #1 returned to the boat and reported, that in area #2 treasure hasn't been found
@@ -137,6 +138,7 @@ All groups have returned to the boat, the treasure has been found, all rum is ab
 13
 ##### output:
 John Silver has arrived to the Island
+
 Group #1 returned to the boat and reported, that in area #1 treasure hasn't been found
 
 Group #4 returned to the boat and reported, that in area #2 treasure hasn't been found
@@ -169,6 +171,7 @@ All groups have returned to the boat, the treasure has been found, all rum is ab
 20
 ##### output:
 John Silver has arrived to the Island
+
 Group #1 returned to the boat and reported, that in area #1 treasure hasn't been found
 
 Group #4 returned to the boat and reported, that in area #2 treasure hasn't been found

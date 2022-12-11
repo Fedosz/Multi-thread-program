@@ -125,7 +125,6 @@ Group #3 returned to the boat and reported, that in area #5 treasure has been fo
 Group #2 returned to the boat and reported, that in area #6 treasure hasn't been found
 Group #1 returned to the boat and reported, that in area #7 treasure hasn't been found
 All groups have returned to the boat, the treasure has been found, all rum is about to be drunk!
--------
 ##### input: 
 6 
 13
@@ -145,7 +144,6 @@ Group #4 returned to the boat and reported, that in area #11 treasure hasn't bee
 Group #3 returned to the boat and reported, that in area #12 treasure hasn't been found
 Group #6 returned to the boat and reported, that in area #13 treasure hasn't been found
 All groups have returned to the boat, the treasure has been found, all rum is about to be drunk!
-----
 ##### input: 
 4 
 20
